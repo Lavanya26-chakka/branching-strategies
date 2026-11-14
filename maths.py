@@ -10,9 +10,11 @@ def multiply(a,b):
 def division(a,b):
     return a/b      
 
-
+def exponent(a,b):
+    return a*b
 
 print("addition of two numbers is=",add(2,3))
 print("subtraction of two numbers is=",sub(2,3))
 print("multiplication of two numbers is=",multiply(2,3))
 print("division of two numbers is=",division(2,10))
+print("exponent of 2 power 10 is=",exponent(2*10))
