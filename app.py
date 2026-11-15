@@ -1,5 +1,8 @@
 username="mani"
+company="tcs"
 print(f"hello {username}welcome to itd")
-print(f"my name is {username}")
+print(f"{company}")
 print("show please sign up or join")
 print("good bye!!")
+print("hi i am a new user")
+print("added")
